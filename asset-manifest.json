@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/luckynumbers.github.io/static/css/main.ba9891b5.css",
-    "main.js": "/luckynumbers.github.io/static/js/main.1938d5e0.js",
-    "static/js/453.a44eb823.chunk.js": "/luckynumbers.github.io/static/js/453.a44eb823.chunk.js",
-    "index.html": "/luckynumbers.github.io/index.html",
-    "main.ba9891b5.css.map": "/luckynumbers.github.io/static/css/main.ba9891b5.css.map",
-    "main.1938d5e0.js.map": "/luckynumbers.github.io/static/js/main.1938d5e0.js.map",
-    "453.a44eb823.chunk.js.map": "/luckynumbers.github.io/static/js/453.a44eb823.chunk.js.map"
+    "main.css": "/luckynumbers/static/css/main.ba9891b5.css",
+    "main.js": "/luckynumbers/static/js/main.822a5de3.js",
+    "static/js/453.a44eb823.chunk.js": "/luckynumbers/static/js/453.a44eb823.chunk.js",
+    "index.html": "/luckynumbers/index.html",
+    "main.ba9891b5.css.map": "/luckynumbers/static/css/main.ba9891b5.css.map",
+    "main.822a5de3.js.map": "/luckynumbers/static/js/main.822a5de3.js.map",
+    "453.a44eb823.chunk.js.map": "/luckynumbers/static/js/453.a44eb823.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba9891b5.css",
-    "static/js/main.1938d5e0.js"
+    "static/js/main.822a5de3.js"
   ]
 }
